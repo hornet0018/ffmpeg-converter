@@ -1,0 +1,1 @@
+KERNEL=="video*", ATTR{name}=="Dummy video device (0x0000)", SYMLINK+="virtual_cam"
