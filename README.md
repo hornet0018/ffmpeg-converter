@@ -1,1 +1,1 @@
-# ffmpeg-converter
+# fisheye to equirectangular
